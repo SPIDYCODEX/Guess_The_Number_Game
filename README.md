@@ -26,3 +26,6 @@ A fun console-based game where the computer randomly selects a number between 1 
 
 ```bash
 python main.py
+## -author-
+SPIDYCODEX
+Learning and building one step from regrets.
